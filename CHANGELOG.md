@@ -505,7 +505,7 @@
     - [selectorExecuteAsync](http://webdriver.io/api/action/selectorExecuteAsync.html)
     - [setViewportSize](http://webdriver.io/api/window/setViewportSize.html)
     - [getViewportSize](http://webdriver.io/api/window/getViewportSize.html)
-* improved waitfor commands - now with support if all selector strategries (thanks to selectorExecuteAsync and @nickyout)
+* improved waitFor commands - now with support of all selector strategies (thanks to selectorExecuteAsync and @nickyout)
 
 ## v2.1.2 (2014-08-22)
 * Fix: log command expecting an object and not a string
